@@ -1,4 +1,4 @@
-	//Setting The Value Of The TSI Cookie
+	//Setting The Value Of The Cookie
     var this_cookies_value = "_j_s_04/25/2019";
 
     //Checks page on load to see if this_cookies_value already exists
